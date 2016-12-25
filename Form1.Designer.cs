@@ -117,7 +117,7 @@
             this.Controls.Add(this.openFileButton);
             this.Controls.Add(this.canvas);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "DBSCAN";
             ((System.ComponentModel.ISupportInitialize)(this.canvas)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
