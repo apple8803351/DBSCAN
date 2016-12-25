@@ -72,9 +72,9 @@
             this.epsLabel.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.epsLabel.Location = new System.Drawing.Point(710, 13);
             this.epsLabel.Name = "epsLabel";
-            this.epsLabel.Size = new System.Drawing.Size(86, 24);
+            this.epsLabel.Size = new System.Drawing.Size(130, 24);
             this.epsLabel.TabIndex = 3;
-            this.epsLabel.Text = "圓心半徑";
+            this.epsLabel.Text = "圓心半徑(eps)";
             // 
             // minPtsLabel
             // 
@@ -82,9 +82,9 @@
             this.minPtsLabel.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.minPtsLabel.Location = new System.Drawing.Point(710, 107);
             this.minPtsLabel.Name = "minPtsLabel";
-            this.minPtsLabel.Size = new System.Drawing.Size(86, 24);
+            this.minPtsLabel.Size = new System.Drawing.Size(160, 24);
             this.minPtsLabel.TabIndex = 4;
-            this.minPtsLabel.Text = "範圍數量";
+            this.minPtsLabel.Text = "範圍數量(minPts)";
             // 
             // epsTextBox
             // 
@@ -94,6 +94,7 @@
             this.epsTextBox.Size = new System.Drawing.Size(155, 33);
             this.epsTextBox.TabIndex = 5;
             this.epsTextBox.Text = "5";
+            this.epsTextBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // minPtsTextBox
             // 
@@ -103,6 +104,7 @@
             this.minPtsTextBox.Size = new System.Drawing.Size(155, 33);
             this.minPtsTextBox.TabIndex = 6;
             this.minPtsTextBox.Text = "2";
+            this.minPtsTextBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // Form1
             // 
