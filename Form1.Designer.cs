@@ -59,6 +59,7 @@
             // 
             // runButton
             // 
+            this.runButton.Enabled = false;
             this.runButton.Location = new System.Drawing.Point(714, 252);
             this.runButton.Name = "runButton";
             this.runButton.Size = new System.Drawing.Size(151, 60);

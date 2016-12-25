@@ -105,6 +105,8 @@ namespace DBSCAN
 
                 canvas.Image = bitmap;
             }
+
+            runButton.Enabled = true;
         }
 
         private void runButton_Click(object sender, EventArgs e)
@@ -249,6 +251,8 @@ namespace DBSCAN
                     }
                 }
             }
+
+            runButton.Enabled = false;
         }
     }
 
