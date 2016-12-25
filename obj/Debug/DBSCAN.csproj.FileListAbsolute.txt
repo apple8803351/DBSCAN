@@ -1,0 +1,9 @@
+C:\Users\Apple\Documents\Visual Studio 2015\DBSCAN\DBSCAN\bin\Debug\DBSCAN.exe.config
+C:\Users\Apple\Documents\Visual Studio 2015\DBSCAN\DBSCAN\bin\Debug\DBSCAN.exe
+C:\Users\Apple\Documents\Visual Studio 2015\DBSCAN\DBSCAN\bin\Debug\DBSCAN.pdb
+C:\Users\Apple\Documents\Visual Studio 2015\DBSCAN\DBSCAN\obj\Debug\DBSCAN.csprojResolveAssemblyReference.cache
+C:\Users\Apple\Documents\Visual Studio 2015\DBSCAN\DBSCAN\obj\Debug\DBSCAN.Form1.resources
+C:\Users\Apple\Documents\Visual Studio 2015\DBSCAN\DBSCAN\obj\Debug\DBSCAN.Properties.Resources.resources
+C:\Users\Apple\Documents\Visual Studio 2015\DBSCAN\DBSCAN\obj\Debug\DBSCAN.csproj.GenerateResource.Cache
+C:\Users\Apple\Documents\Visual Studio 2015\DBSCAN\DBSCAN\obj\Debug\DBSCAN.exe
+C:\Users\Apple\Documents\Visual Studio 2015\DBSCAN\DBSCAN\obj\Debug\DBSCAN.pdb
